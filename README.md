@@ -20,4 +20,4 @@ It also have the **RightClickMenu**.
 And there're a line number bar that help you to write clearly.
 
 ## How It Works
-All things are ran in ```*main.py*```.
+All things are ran in *```main.py```*.
