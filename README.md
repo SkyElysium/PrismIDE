@@ -16,6 +16,7 @@ This Project is coded by Python Tkinter.
   + Select all
 
 It also have the **RightClickMenu**.
+
 And there're a line number bar that help you to write clearly.
 
 ## How It Works
