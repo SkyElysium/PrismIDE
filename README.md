@@ -11,4 +11,4 @@ And some usual things...
 ## *How It Works*
 All things are ran in *```main.py```*.
 
-This is too terrible!!! Im trying to turn it into some files.
+This is too terrible!!! I'm trying to turn it into some files.
